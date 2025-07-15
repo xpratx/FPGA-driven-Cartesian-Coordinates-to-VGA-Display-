@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports reset_0]
+set_property PACKAGE_PIN AG13 [get_ports reset_0]
+set_property PACKAGE_PIN D20 [get_ports hsync_0]
+set_property PACKAGE_PIN D22 [get_ports vga_out_0]
+set_property PACKAGE_PIN E20 [get_ports vsync_0]
+set_property IOSTANDARD LVCMOS33 [get_ports hsync_0]
+set_property IOSTANDARD LVCMOS33 [get_ports vga_out_0]
+set_property IOSTANDARD LVCMOS33 [get_ports vsync_0]
